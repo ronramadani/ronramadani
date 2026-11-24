@@ -27,8 +27,6 @@ Offensive security researcher and vulnerability analyst operating out of Pristin
 
 I approach targets the way real adversaries do: mapping attack surfaces, deconstructing binaries, intercepting protocols, and chaining low-severity findings into critical impact. Whether it's tearing apart a compiled binary in Ghidra, tracing execution flow through obfuscated malware, or walking an Active Directory kill chain from initial foothold to domain admin — the methodology is the same: **systematic, documented, reproducible**.
 
-Currently focused on web application exploitation, network infrastructure penetration testing, Windows internals, and binary analysis. Active on HackerOne. Every repo in this profile is proof of work — real labs, real tooling, real findings with full methodology documentation.
-
 ---
 
 ## Certifications & Training
@@ -48,47 +46,47 @@ Currently focused on web application exploitation, network infrastructure penetr
 
 **Exploitation & Offensive Tooling**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-6C47FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIj5DPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=for-the-badge&logo=gnubash&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-DC382D?style=for-the-badge&logo=neo4j&logoColor=white)
+<img src="assets/badges/burp.png" alt="Burp Suite" height="28" />
+<img src="assets/badges/caido.png" alt="Caido" height="28" />
+<img src="assets/badges/metasploit.png" alt="Metasploit" height="28" />
+<img src="assets/badges/nmap.png" alt="Nmap" height="28" />
+<img src="assets/badges/sqlmap.png" alt="SQLMap" height="28" />
+<img src="assets/badges/hydra.png" alt="Hydra" height="28" />
+<img src="assets/badges/hashcat.png" alt="Hashcat" height="28" />
+<img src="assets/badges/bloodhound.png" alt="BloodHound" height="28" />
 
 **Reverse Engineering & Binary Analysis**
 
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMiIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIj7wn5CRPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIj5JREE8L3RleHQ+PC9zdmc+&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-2B2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMwMGZmMDAiPng2NDwvdGV4dD48L3N2Zz4=&logoColor=00ff00)
-![Radare2](https://img.shields.io/badge/Radare2-FFFF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMiIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9ImJsYWNrIj5yMjwvdGV4dD48L3N2Zz4=&logoColor=black)
-![dnSpy](https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="assets/badges/ghidra.png" alt="Ghidra" height="28" />
+<img src="assets/badges/ida.png" alt="IDA Pro" height="28" />
+<img src="assets/badges/x64dbg.png" alt="x64dbg" height="28" />
+<img src="assets/badges/radare2.png" alt="Radare2" height="28" />
+<img src="assets/badges/dnspy.png" alt="dnSpy" height="28" />
 
 **Network Interception & Traffic Analysis**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Telerik Fiddler](https://img.shields.io/badge/Fiddler-5CE500?style=for-the-badge&logo=progress&logoColor=white)
-![mitmproxy](https://img.shields.io/badge/mitmproxy-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIj5NSVRNUDwvdGV4dD48L3N2Zz4=&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-333333?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="assets/badges/wireshark.png" alt="Wireshark" height="28" />
+<img src="assets/badges/fiddler.png" alt="Fiddler" height="28" />
+<img src="assets/badges/mitm.png" alt="mitmproxy" height="28" />
+<img src="assets/badges/tcpdump.png" alt="tcpdump" height="28" />
 
 **Languages & Scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+<img src="assets/badges/python.png" alt="Python" height="28" />
+<img src="assets/badges/c.png" alt="C" height="28" />
+<img src="assets/badges/csharp.png" alt="C#" height="28" />
+<img src="assets/badges/bash.png" alt="Bash" height="28" />
+<img src="assets/badges/powershell.png" alt="PowerShell" height="28" />
+<img src="assets/badges/asm.png" alt="x86 Assembly" height="28" />
 
 **Platforms & Infrastructure**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+<img src="assets/badges/kali.png" alt="Kali Linux" height="28" />
+<img src="assets/badges/windows.png" alt="Windows" height="28" />
+<img src="assets/badges/linux.png" alt="Linux" height="28" />
+<img src="assets/badges/docker.png" alt="Docker" height="28" />
+<img src="assets/badges/vbox.png" alt="VirtualBox" height="28" />
+<img src="assets/badges/vmware.png" alt="VMware" height="28" />
 
 </div>
 
