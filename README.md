@@ -46,6 +46,7 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 
 <img src="assets/badges/burp.png" alt="Burp Suite" height="28" />
 <img src="assets/badges/caido.png" alt="Caido" height="28" />
+<img src="assets/badges/openbullet.png" alt="OpenBullet" height="28" />
 <img src="assets/badges/metasploit.png" alt="Metasploit" height="28" />
 <img src="assets/badges/nmap.png" alt="Nmap" height="28" />
 <img src="assets/badges/sqlmap.png" alt="SQLMap" height="28" />
