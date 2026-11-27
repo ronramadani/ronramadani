@@ -6,8 +6,6 @@
 
 [![Location](https://img.shields.io/badge/Kosovo-Pristina-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Pristina)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/cryptography)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
 
 ```
 root@ronramadani:~# whoami
@@ -33,10 +31,10 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 
 | Status | Certification | Issuer |
 |--------|---------------|--------|
-| `In Progress` | CompTIA Security+ (SY0-701) | CompTIA |
-| `Planned` | eJPT (Junior Penetration Tester) | INE Security |
-| `Planned` | PNPT (Practical Network Penetration Tester) | TCM Security |
-| `Target` | OSCP (Offensive Security Certified Professional) | OffSec |
+| `Completed` | OPSWAT Cybersecurity Fundamentals Associate (OCFA) | OPSWAT |
+| `Completed` | OPSWAT Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT |
+| `In Progress` | NSE 1 - SP | Fortinet |
+| `In Progress` | Shell Scripting Using Bash | The Linux Foundation |
 
 ---
 
@@ -133,8 +131,8 @@ PortSwigger     --           --           Starting
 ## Current Focus
 
 - Building a comprehensive **security home lab** with Wazuh SIEM + Suricata IDS
-- Working through **TryHackMe** offensive pentesting path
-- Studying for **CompTIA Security+** (SY0-701)
+- Completing **Fortinet NSE 1 - SP**
+- Completing **Shell Scripting Using Bash** (The Linux Foundation)
 - Practicing **web application hacking** on PortSwigger Academy
 - Documenting everything — every lab, every machine, every finding
 
