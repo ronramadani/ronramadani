@@ -77,6 +77,8 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 <img src="assets/badges/bash.png" alt="Bash" height="28" />
 <img src="assets/badges/powershell.png" alt="PowerShell" height="28" />
 <img src="assets/badges/asm.png" alt="x86 Assembly" height="28" />
+<img src="assets/badges/javascript.png" alt="JavaScript" height="28" />
+<img src="assets/badges/sql.png" alt="SQL" height="28" />
 
 **Platforms & Infrastructure**
 
