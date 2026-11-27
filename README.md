@@ -58,7 +58,7 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 
 <img src="assets/badges/ghidra.png" alt="Ghidra" height="28" />
 <img src="assets/badges/ida.png?v=2" alt="IDA Pro" height="28" />
-<img src="assets/badges/x64dbg.png" alt="x64dbg" height="28" />
+<img src="assets/badges/x64dbg.png?v=2" alt="x64dbg" height="28" />
 <img src="assets/badges/radare2.png" alt="Radare2" height="28" />
 <img src="assets/badges/dnspy.png" alt="dnSpy" height="28" />
 
