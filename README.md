@@ -44,30 +44,30 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 
 **Exploitation & Offensive Tooling**
 
+<img src="assets/badges/nmap.png" alt="Nmap" height="28" />
+<img src="assets/badges/hydra.png" alt="Hydra" height="28" />
+<img src="assets/badges/metasploit.png" alt="Metasploit" height="28" />
 <img src="assets/badges/burp.png" alt="Burp Suite" height="28" />
-<img src="assets/badges/caido.png" alt="Caido" height="28" />
+<img src="assets/badges/sqlmap.png" alt="SQLMap" height="28" />
+<img src="assets/badges/hashcat.png" alt="Hashcat" height="28" />
 <img src="assets/badges/postman.png" alt="Postman" height="28" />
 <img src="assets/badges/openbullet.png" alt="OpenBullet" height="28" />
-<img src="assets/badges/metasploit.png" alt="Metasploit" height="28" />
-<img src="assets/badges/nmap.png" alt="Nmap" height="28" />
-<img src="assets/badges/sqlmap.png" alt="SQLMap" height="28" />
-<img src="assets/badges/hydra.png" alt="Hydra" height="28" />
-<img src="assets/badges/hashcat.png" alt="Hashcat" height="28" />
+<img src="assets/badges/caido.png" alt="Caido" height="28" />
 
 **Reverse Engineering & Binary Analysis**
 
-<img src="assets/badges/ghidra.png" alt="Ghidra" height="28" />
-<img src="assets/badges/binaryninja.png" alt="Binary Ninja" height="28" />
-<img src="assets/badges/x64dbg-beetle.png" alt="x64dbg" height="28" />
 <img src="assets/badges/radare2.png" alt="Radare2" height="28" />
+<img src="assets/badges/x64dbg-beetle.png" alt="x64dbg" height="28" />
 <img src="assets/badges/dnspy.png" alt="dnSpy" height="28" />
+<img src="assets/badges/binaryninja.png" alt="Binary Ninja" height="28" />
+<img src="assets/badges/ghidra.png" alt="Ghidra" height="28" />
 
 **Network Interception & Traffic Analysis**
 
+<img src="assets/badges/tcpdump.png" alt="tcpdump" height="28" />
 <img src="assets/badges/wireshark.png" alt="Wireshark" height="28" />
 <img src="assets/badges/fiddler.png" alt="Fiddler" height="28" />
 <img src="assets/badges/mitm.png" alt="mitmproxy" height="28" />
-<img src="assets/badges/tcpdump.png" alt="tcpdump" height="28" />
 
 **Languages & Scripting**
 
