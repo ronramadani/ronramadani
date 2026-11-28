@@ -84,8 +84,11 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 
 <img src="assets/badges/kali.png" alt="Kali Linux" height="28" />
 <img src="assets/badges/qemu.png" alt="QEMU" height="28" />
+<img src="assets/badges/vbox.png" alt="VirtualBox" height="28" />
 <img src="assets/badges/docker.png" alt="Docker" height="28" />
 <img src="assets/badges/kubernetes.png" alt="Kubernetes" height="28" />
+<img src="assets/badges/wireguard.png" alt="WireGuard" height="28" />
+<img src="assets/badges/tor.png" alt="Tor" height="28" />
 
 </div>
 
