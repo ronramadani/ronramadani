@@ -83,11 +83,9 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 **Platforms & Infrastructure**
 
 <img src="assets/badges/kali.png" alt="Kali Linux" height="28" />
-<img src="assets/badges/windows.png" alt="Windows" height="28" />
-<img src="assets/badges/linux.png" alt="Linux" height="28" />
+<img src="assets/badges/qemu.png" alt="QEMU" height="28" />
 <img src="assets/badges/docker.png" alt="Docker" height="28" />
-<img src="assets/badges/vbox.png" alt="VirtualBox" height="28" />
-<img src="assets/badges/vmware.png" alt="VMware" height="28" />
+<img src="assets/badges/kubernetes.png" alt="Kubernetes" height="28" />
 
 </div>
 
