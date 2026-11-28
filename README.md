@@ -53,12 +53,11 @@ I approach targets the way real adversaries do: mapping attack surfaces, deconst
 <img src="assets/badges/sqlmap.png" alt="SQLMap" height="28" />
 <img src="assets/badges/hydra.png" alt="Hydra" height="28" />
 <img src="assets/badges/hashcat.png" alt="Hashcat" height="28" />
-<img src="assets/badges/bloodhound.png" alt="BloodHound" height="28" />
 
 **Reverse Engineering & Binary Analysis**
 
 <img src="assets/badges/ghidra.png" alt="Ghidra" height="28" />
-<img src="assets/badges/ida.png?v=2" alt="IDA Pro" height="28" />
+<img src="assets/badges/binaryninja.png" alt="Binary Ninja" height="28" />
 <img src="assets/badges/x64dbg-beetle.png" alt="x64dbg" height="28" />
 <img src="assets/badges/radare2.png" alt="Radare2" height="28" />
 <img src="assets/badges/dnspy.png" alt="dnSpy" height="28" />
